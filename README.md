@@ -47,10 +47,13 @@
 ---
 
 ### 📊 อนิเมะเรื่องที่ชอบ
-re zero <a href=""></a>
+re zero 
+<p align="center">
+  <img src="[https://img.shields.io/badge/Cyberpunk_2077-FCEE09?style=flat-square&logo=cyberpunk2077&logoColor=black](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsfogwAPrC--rdTfTNm-n_AXe719wBVoisscdIOGDCg&s=10)" alt="re zero" /> 
+ 
+</p>
 ---
 
 ### 📟 ESTABLISH CONNECTION (ติดต่อสื่อสาร)
 - **📟 Signal/Email:**`pch95602@gmail.com`
-- **🌐 Network Grid:** [Portfolio Website](#)
 - **💬 Encryption Key (Discord):** `roblox_user`
