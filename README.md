@@ -49,7 +49,7 @@
 ### 📊 อนิเมะเรื่องที่ชอบ
 re zero 
 <p align="center">
-  <img src="[https://img.shields.io/badge/Cyberpunk_2077-FCEE09?style=flat-square&logo=cyberpunk2077&logoColor=black](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQsfogwAPrC--rdTfTNm-n_AXe719wBVoisscdIOGDCg&s=10)" alt="re zero" /> 
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiHm059wGBK4V9PI90eU6cJXDhzEs7QNmL2F5nziVgfCAj7htK6NzBbk&s=10" alt="re zero" /> 
  
 </p>
 ---
