@@ -32,7 +32,7 @@
 #### 🎮 Game Dev & Low-Level
 ![Luau/Roblox](https://img.shields.io/badge/Luau_/_Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c--sharp&logoColor=white)
 
 ---
 
