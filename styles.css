@@ -1,0 +1,6 @@
+.txt-ellipsis {
+  max-width: 150px;          /* ปรับขนาดความกว้างสูงสุดได้ตามต้องการ */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
