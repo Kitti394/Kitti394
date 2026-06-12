@@ -47,6 +47,7 @@
 ---
 
 ### 📊 อนิเมะเรื่องที่ชอบ
+<link rel="stylesheet" href="styles.css">
 <table border="0">
   <thead>
     <tr>
