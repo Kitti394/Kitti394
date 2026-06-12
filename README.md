@@ -5,6 +5,16 @@
 
 ---
 
+<style>
+  .md-table-fixed { table-layout: fixed; width: 100%; }
+  .txt-ellipsis {
+    max-width: 150px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+</style>
+
 ### 🛠️ CORE TECH STACK (ความเชี่ยวชาญ)
 
 #### 🌐 Frontend & Mobile Development
@@ -47,15 +57,7 @@
 ---
 
 ### 📊 อนิเมะเรื่องที่ชอบ
-<style>
-  .md-table-fixed { table-layout: fixed; width: 100%; }
-  .txt-ellipsis {
-    max-width: 150px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-</style>
+
 <table border="0">
   <thead>
     <tr>
