@@ -47,8 +47,8 @@
 ---
 
 ### 📊 อนิเมะเรื่องที่ชอบ
-re zero 
-<p align="center">
+Re: Zero - Starting Life in Another World
+<p align="left">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiHm059wGBK4V9PI90eU6cJXDhzEs7QNmL2F5nziVgfCAj7htK6NzBbk&s=10" alt="re zero" /> 
  
 </p>
