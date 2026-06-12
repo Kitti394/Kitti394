@@ -1,7 +1,7 @@
 - 💻 **Main Directives:** พัฒนา Full-Stack Web Applications และ Mobile Applications แบบเน้นประสิทธิภาพและความปลอดภัย
 - 🛠️ **Sub-Directives:** หลงใหลในการทำ Game Development, ออกแบบเกมกลไก Tactical/Stealth และการโมดิฟายระบบเกม
 - 🛡️ **Interest:** สนใจด้าน Cybersecurity เจาะลึกกลไกและระบบป้องกัน (Anti-Cheat), Memory Scanning และ Low-level concepts
-- 🕶️ **Aesthetics:** ชอบงานออกแบบและคอนเซปต์สไตล์ Hacker, Cyberpunk และกลิ่นอายแบบ Tactical
+- 🕶️ **Aesthetics:** ชอบงานออกแบบและคอนเซปต์สไตล์ Hacker
 
 ---
 
