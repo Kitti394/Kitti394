@@ -5,16 +5,6 @@
 
 ---
 
-<style>
-  .md-table-fixed { table-layout: fixed; width: 100%; }
-  .txt-ellipsis {
-    max-width: 150px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-</style>
-
 ### 🛠️ CORE TECH STACK (ความเชี่ยวชาญ)
 
 #### 🌐 Frontend & Mobile Development
@@ -41,6 +31,9 @@
   <img src="https://img.shields.io/badge/Cyberpunk_2077-FCEE09?style=flat-square&logo=cyberpunk2077&logoColor=black" alt="Cyberpunk 2077" /> 
   <img src="https://img.shields.io/badge/Roblox-000000?style=flat-square&logo=roblox&logoColor=white" alt="Roblox" /> 
   <img src="https://img.shields.io/badge/Limbus_Company-8B0000?style=flat-square" alt="Limbus Company" />
+  <img src="https://img.shields.io/badge/RDR_2-B71C1C?style=flat-square&logo=reddeadredemption&logoColor=white" alt="Red Dead Redemption 2" /> 
+  <img src="https://img.shields.io/badge/GTA_V-1F5733?style=flat-square&logo=grandtheftauto&logoColor=white" alt="GTA V" /> 
+  <img src="https://img.shields.io/badge/CS2-DE9B35?style=flat-square&logo=counterstrike&logoColor=white" alt="Counter-Strike 2" /> 
   <img src="https://img.shields.io/badge/And_More_Games...-00FF66?style=flat-square" alt="More Games" />
 </p>
 
