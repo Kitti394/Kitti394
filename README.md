@@ -22,7 +22,7 @@
 #### 🎮 Game Dev & Low-Level
 ![Luau/Roblox](https://img.shields.io/badge/Luau_/_Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly_X86-4E4E4E?style=for-the-badge&logo=assembly&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
@@ -47,9 +47,24 @@
 ---
 
 ### 📊 อนิเมะเรื่องที่ชอบ
-Re: Zero - Starting Life in Another World
+<table border="0">
+  <thead>
+    <tr>
+      <th align="center">Re: Zero - Starting Life in Another World</th>
+      <th align="center">ชื่อรูปภาพ 2</th>
+      <th align="center">ชื่อรูปภาพ 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiHm059wGBK4V9PI90eU6cJXDhzEs7QNmL2F5nziVgfCAj7htK6NzBbk&s=10" alt="re zero 1" width="150" /></td>
+      <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiHm059wGBK4V9PI90eU6cJXDhzEs7QNmL2F5nziVgfCAj7htK6NzBbk&s=10" alt="re zero 2" width="150" /></td>
+      <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiHm059wGBK4V9PI90eU6cJXDhzEs7QNmL2F5nziVgfCAj7htK6NzBbk&s=10" alt="re zero 3" width="150" /></td>
+    </tr>
+  </tbody>
+</table>
 <p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiHm059wGBK4V9PI90eU6cJXDhzEs7QNmL2F5nziVgfCAj7htK6NzBbk&s=10" alt="re zero" /> 
+  
  
 </p>
 ---
