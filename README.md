@@ -50,7 +50,7 @@
 <table border="0">
   <thead>
     <tr>
-      <th align="center">Re: Zero - Starting Life in Another World</th>
+      <th align="center" style="word-break: break-all" >Re: Zero - Starting Life in Another World</th>
       <th align="center">ชื่อรูปภาพ 2</th>
       <th align="center">ชื่อรูปภาพ 3</th>
     </tr>
