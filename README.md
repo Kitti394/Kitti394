@@ -69,7 +69,7 @@
   <tbody>
     <tr>
       <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiHm059wGBK4V9PI90eU6cJXDhzEs7QNmL2F5nziVgfCAj7htK6NzBbk&s=10" alt="re zero 1" width="150" /></td>
-      <td><img src="https://upload.wikimedia.org/wikipedia/th/9/9e/%E0%B9%82%E0%B8%9B%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A0%E0%B8%B2%E0%B8%9E_Steins%3B_Gate.jpeg alt="re zero 2" width="150" /></td>
+      <td><img src="https://upload.wikimedia.org/wikipedia/th/9/9e/%E0%B9%82%E0%B8%9B%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%A0%E0%B8%B2%E0%B8%9E_Steins%3B_Gate.jpeg" alt="re zero 2" width="150" /></td>
       <td><img src="https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="re zero 3" width="150" /></td>
     </tr>
   </tbody>
