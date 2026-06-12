@@ -46,13 +46,8 @@
 
 ---
 
-### 📊 อนิเมะเรื่องที่ชอบ (สถิติแฮกเกอร์)
-
-<p align="center">
-  <img src="https://www.reddit.com/r/anime/comments/1rmyyex/rezero_season_4_new_key_visual/?tl=th" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ใส่ยูสเซอร์เนมของคุณตรงนี้&layout=compact&theme=matrix&hide_border=true" alt="Top Languages" />
-</p>
-
+### 📊 อนิเมะเรื่องที่ชอบ
+re zero <a href=""></a>
 ---
 
 ### 📟 ESTABLISH CONNECTION (ติดต่อสื่อสาร)
