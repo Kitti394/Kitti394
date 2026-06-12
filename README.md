@@ -47,7 +47,15 @@
 ---
 
 ### 📊 อนิเมะเรื่องที่ชอบ
-<link rel="stylesheet" href="styles.css">
+<style>
+  .md-table-fixed { table-layout: fixed; width: 100%; }
+  .txt-ellipsis {
+    max-width: 150px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+</style>
 <table border="0">
   <thead>
     <tr>
@@ -64,10 +72,6 @@
     </tr>
   </tbody>
 </table>
-<p align="left">
-  
- 
-</p>
 ---
 
 ### 📟 ESTABLISH CONNECTION (ติดต่อสื่อสาร)
